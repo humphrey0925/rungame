@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kbh.rungame.Master_setroom">
+
+    <LinearLayout
+        android:layout_width="361dp"
+        android:layout_height="557dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp"
+        android:weightSum="1">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="38dp"
+                android:layout_weight="1"
+                android:text="@string/code_get_res"
+                android:textSize="30sp"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="16dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="49dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/room_code"
+                android:layout_width="match_parent"
+                android:layout_height="43dp"
+                android:layout_weight="1"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="71dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_weight="0.07">
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="55dp"
+                android:layout_weight="1"
+                android:text="@string/code_password_res"
+                android:textSize="24sp"
+                tools:layout_editor_absoluteX="4dp"
+                tools:layout_editor_absoluteY="143dp" />
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/password_code"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:ems="10"
+            android:inputType="number"
+            tools:layout_editor_absoluteX="4dp"
+            tools:layout_editor_absoluteY="216dp" />
+
+        <Button
+            android:id="@+id/confirm"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:text="@string/comfirm"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="163dp"
+            tools:layout_editor_absoluteY="447dp" />
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:text="@string/cancel"
+            android:textSize="18sp"
+            tools:layout_editor_absoluteX="280dp"
+            tools:layout_editor_absoluteY="447dp" />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

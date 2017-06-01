@@ -1,0 +1,7 @@
+#Thu Jun 01 14:21:02 CST 2017
+base.0=C\:\\Users\\USER\\Desktop\\Rungame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_696dea6145799000444f0896f42ecc2bbbb00b10
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\USER\\Desktop\\Rungame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d03aeba3bffe6f6c659463f4107a25bca1cf45c0\\classes.dex
+base.1=C\:\\Users\\USER\\Desktop\\Rungame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d03aeba3bffe6f6c659463f4107a25bca1cf45c0
+file.0=C\:\\Users\\USER\\Desktop\\Rungame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_696dea6145799000444f0896f42ecc2bbbb00b10\\classes.dex

@@ -1,0 +1,133 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:3:5-30
+		INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:10:22-76
+application
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:12:5-45:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\USER\.android\build-cache\b4249e73c6069323d9a125818ab2eeb97ada5269\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\USER\.android\build-cache\87e7b5b3220aee09d28695dd45e87882618de97f\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\USER\.android\build-cache\bb2fa3a9a055fa896617627b601efce6eaf99f32\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.android\build-cache\e908d2ad63316fd3ffe30b4c0b27ba1fc0a93a67\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\USER\.android\build-cache\ac59c9627d84a93b36e64dc8f8aa0a1a7b871b37\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\USER\.android\build-cache\de4b76218db5c17a91052245e548c7757d60f15c\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\USER\.android\build-cache\42f5228ed25226abd6224cecf62ce6c24bd94da2\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\USER\.android\build-cache\161470d7398bdbca1136933df545c0afcbcff69a\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\USER\.android\build-cache\15e109a76dd8a3ec256bf720b61cdc507573f50a\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\USER\.android\build-cache\2a1458d7f6a2aea00463c43fdf1cc29e0cbc09e3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\USER\.android\build-cache\86409005f7af05c4a2e30e8ee82a4858791dae67\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\USER\.android\build-cache\ddf05a2eff296b84fb08aeb4452c1b3f6321c729\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\USER\.android\build-cache\e05aba24f54821801d59ab63c4ef8c5db4fff5ca\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\USER\.android\build-cache\dc614303da0d6793d22d0b212572b1187cf77d85\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:15:9-41
+	android:supportsRtl
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:17:9-35
+	android:roundIcon
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:16:9-54
+	android:allowBackup
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:14:9-43
+	android:theme
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.kbh.rungame.MainActivity
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.kbh.rungame.Master_setroom
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:26:9-52
+	android:name
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:26:19-49
+activity#com.kbh.rungame.masteruse
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:35:9-37:15
+	android:name
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:36:13-38
+activity#com.kbh.rungame.mastermap
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:38:9-39:44
+	android:label
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:39:13-32
+	android:name
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:38:19-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:40:9-42:55
+	android:value
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:42:13-52
+	android:name
+		ADDED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml:41:13-58
+uses-sdk
+INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\USER\.android\build-cache\b4249e73c6069323d9a125818ab2eeb97ada5269\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\USER\.android\build-cache\87e7b5b3220aee09d28695dd45e87882618de97f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\USER\.android\build-cache\bb2fa3a9a055fa896617627b601efce6eaf99f32\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\USER\.android\build-cache\e908d2ad63316fd3ffe30b4c0b27ba1fc0a93a67\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\USER\.android\build-cache\ac59c9627d84a93b36e64dc8f8aa0a1a7b871b37\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\USER\.android\build-cache\de4b76218db5c17a91052245e548c7757d60f15c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\USER\.android\build-cache\42f5228ed25226abd6224cecf62ce6c24bd94da2\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\USER\.android\build-cache\161470d7398bdbca1136933df545c0afcbcff69a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\USER\.android\build-cache\15e109a76dd8a3ec256bf720b61cdc507573f50a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\USER\.android\build-cache\2a1458d7f6a2aea00463c43fdf1cc29e0cbc09e3\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\USER\.android\build-cache\86409005f7af05c4a2e30e8ee82a4858791dae67\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\USER\.android\build-cache\ddf05a2eff296b84fb08aeb4452c1b3f6321c729\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\USER\.android\build-cache\e05aba24f54821801d59ab63c4ef8c5db4fff5ca\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\USER\.android\build-cache\dc614303da0d6793d22d0b212572b1187cf77d85\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\USER\.android\build-cache\b4249e73c6069323d9a125818ab2eeb97ada5269\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\USER\Desktop\Rungame\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\USER\.android\build-cache\ac59c9627d84a93b36e64dc8f8aa0a1a7b871b37\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\USER\.android\build-cache\ac59c9627d84a93b36e64dc8f8aa0a1a7b871b37\output\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\USER\.android\build-cache\ac59c9627d84a93b36e64dc8f8aa0a1a7b871b37\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\USER\.android\build-cache\ac59c9627d84a93b36e64dc8f8aa0a1a7b871b37\output\AndroidManifest.xml:20:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\USER\.android\build-cache\ac59c9627d84a93b36e64dc8f8aa0a1a7b871b37\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\USER\.android\build-cache\ac59c9627d84a93b36e64dc8f8aa0a1a7b871b37\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:9.6.1] C:\Users\USER\.android\build-cache\ac59c9627d84a93b36e64dc8f8aa0a1a7b871b37\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\USER\.android\build-cache\de4b76218db5c17a91052245e548c7757d60f15c\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\USER\.android\build-cache\de4b76218db5c17a91052245e548c7757d60f15c\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\USER\.android\build-cache\de4b76218db5c17a91052245e548c7757d60f15c\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.6.1] C:\Users\USER\.android\build-cache\de4b76218db5c17a91052245e548c7757d60f15c\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\USER\.android\build-cache\161470d7398bdbca1136933df545c0afcbcff69a\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\USER\.android\build-cache\161470d7398bdbca1136933df545c0afcbcff69a\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\USER\.android\build-cache\161470d7398bdbca1136933df545c0afcbcff69a\output\AndroidManifest.xml:20:20-65

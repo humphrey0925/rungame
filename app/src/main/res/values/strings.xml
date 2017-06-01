@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rungame</string>
+    <string name="attender">參與者</string>
+    <string name="master">關主</string>
+    <string name="main_activity_request_click">請選擇您的身份</string>
+    <string name="code_get_res">您的房間代碼：</string>
+    <string name="code_password_res">請輸入您的房間密碼（若為空則為沒有密碼）：</string>
+    <string name="comfirm"> 確認</string>
+    <string name="cancel">取消</string>
+    <string name="title_activity_masteruse">Map</string>
+</resources>
